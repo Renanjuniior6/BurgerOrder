@@ -19,7 +19,7 @@ function Home() {
 
     if(inputOrder.current.value !== '' &&  inputClient.current.value !== '') { 
 
-    const {data: newOrder} = await axios.post('http://localhost:3001/order', {
+    const {data: newOrder} = await axios.post('https://api-code-burguer.vercel.app/order', {
      order: inputOrder.current.value,
      client: inputClient.current.value
 
