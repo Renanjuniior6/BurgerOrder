@@ -13,7 +13,7 @@ function Order(){
 
   useEffect(() => {
     async function fetchOrders(){
-      const {data: newOrders} = await axios.get('http://localhost:3001/order')
+      const {data: newOrders} = await axios.get('https://api-code-burguer.vercel.app/order')
 
       setOrders(newOrders)
     }
@@ -24,7 +24,7 @@ function Order(){
 
   async function deleteOrder(orderId){
      
-    await axios.delete(`http://localhost:3001/order/${orderId}`)
+    await axios.delete(`https://api-code-burguer.vercel.app/order/${orderId}`)
 
     const deletedOrders = orders.filter((order) => order.id !== orderId )
 
