@@ -20,3 +20,5 @@ armazenados em uma API
 <br>
 <b>💻Tecnologias usadas:</b> React, Nodejs, Express, Cors, Uuid, React-route-dom, Axios, Styled-components, Vite, Eslint, Prettier, NPM
 
+<b>Link do site:</b> https://code-burger-order.netlify.app/
+
