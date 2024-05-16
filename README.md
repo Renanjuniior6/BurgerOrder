@@ -13,7 +13,7 @@
 - Após o usuário preencher os campos necessários e enviar, o pedido será armazenado em outra tela onde vão estar visíveis todos os pedidos realizados anteriormente com os todos os dados 
 armazenados em uma API
 
-- Caso o usuário não insirir nenhuma informação e clicar em enviar um aviso aparecerá na tela
+- Caso o usuário não inserir nenhuma informação e clicar em enviar um aviso aparecerá na tela
 
 ## ✅Tecnologias Utilizadas 
 - [X] React
@@ -60,4 +60,5 @@ $ npm dev
 
 ## ❗ Observações 
 - Como se trata de um projeto fullstack, para rodar corretamente na sua máquina será necessário fazer o clone e rodar a parte back end
+- [Repositório da API](https://github.com/Renanjuniior6/API-Burger-Order)
 
