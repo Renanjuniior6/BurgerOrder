@@ -7,6 +7,7 @@
 - Campo de nome ▶
 - Campo do pedido ▶
 - Enviar pedido ▶
+- Excluir Pedido ▶
 
 ## 🌐 Info 
 - Após o usuário preencher os campos necessários e enviar, o pedido será armazenado em outra tela onde vão estar visíveis todos os pedidos realizados anteriormente com os todos os dados 
