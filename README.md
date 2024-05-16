@@ -1,7 +1,7 @@
 # 🍔 BurgerOrder
 ![Projeto-burguer-order](https://github.com/Renanjuniior6/BurgerOrder/assets/106713211/255e583a-89d6-49aa-a5d6-226127168c8e)
 
-- ### Projeto fullstack com a função de ser um sistema onde o usuário realiza um pedido colocando o nome do cliente e o pedido. Assim que realizado o pedido fica armaazenado em uma segunda tela com todos os pedidos realizados através de uma API
+- ### Projeto fullstack com a função de ser um sistema onde o usuário realiza um pedido colocando o nome do cliente e o pedido. Assim que realizado o pedido fica armazenado em uma segunda tela com todos os pedidos realizados através de uma API
 
 ## 🔧 Funcionalidades 
 - Campo de nome ▶
